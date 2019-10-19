@@ -1,0 +1,9 @@
+{
+	"WRONGEMAIL" : "Sorry, Your email is Not Register !",
+	"WRONGPASSWORD" : "Sorry, Your Password is wrong !",
+	"SUCCESSLOGIN" : "Welcome Back, Your Successfull Login to Administrator!",
+	"FAILED" : "Opps! Sorry Data Failed to Save.",
+	"SUCCESS" : "Information, Data Success Uploaded.",
+	"FAILEDDELETE" : "Opps! Sorry Delete Data Failed",
+	"SUCCESSDELETE" : "Success Delete Data"
+}

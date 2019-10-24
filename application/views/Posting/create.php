@@ -50,7 +50,7 @@
         <div class="card-body" style="height: 400px;overflow: auto;">
           <div class="form-check mb-2 mr-sm-2" v-for="item in Data">
             <input type="checkbox" class="form-check-input" name="" v-model="categorySelected" v-bind:value="item.ID_Category">
-            <label style="width: 100%;" class="form-check-label">{{item.Category_name}} <span style="float: right;cursor: pointer;"><i class="fa fa-trash"></i></span></label>
+            <label style="width: 100%;" class="form-check-label">{{item.Category_name}} <span style="float: right;cursor: pointer;" class="custom-trash" ><i class="fa fa-trash"></i></span></label>
           </div>
           <hr class="divider">
         </div>

@@ -1591,3 +1591,95 @@ DEBUG - 2019-10-19 16:58:04 --> Session: "sess_save_path" is empty; using "sessi
 INFO - 2019-10-19 16:58:04 --> Session: Class initialized using 'files' driver.
 INFO - 2019-10-19 16:58:04 --> Controller Class Initialized
 INFO - 2019-10-19 21:58:04 --> Model "Category_model" initialized
+INFO - 2019-10-19 17:11:33 --> Config Class Initialized
+INFO - 2019-10-19 17:11:33 --> Hooks Class Initialized
+DEBUG - 2019-10-19 17:11:33 --> UTF-8 Support Enabled
+INFO - 2019-10-19 17:11:33 --> Utf8 Class Initialized
+INFO - 2019-10-19 17:11:33 --> URI Class Initialized
+INFO - 2019-10-19 17:11:33 --> Router Class Initialized
+INFO - 2019-10-19 17:11:33 --> Output Class Initialized
+INFO - 2019-10-19 17:11:33 --> Security Class Initialized
+DEBUG - 2019-10-19 17:11:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-19 17:11:33 --> Input Class Initialized
+INFO - 2019-10-19 17:11:33 --> Language Class Initialized
+INFO - 2019-10-19 17:11:33 --> Loader Class Initialized
+INFO - 2019-10-19 17:11:33 --> Helper loaded: url_helper
+INFO - 2019-10-19 17:11:33 --> Helper loaded: form_helper
+INFO - 2019-10-19 17:11:33 --> Helper loaded: language_helper
+INFO - 2019-10-19 17:11:33 --> Database Driver Class Initialized
+DEBUG - 2019-10-19 17:11:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-10-19 17:11:33 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-19 17:11:33 --> Controller Class Initialized
+INFO - 2019-10-19 22:11:33 --> Model "Category_model" initialized
+INFO - 2019-10-19 22:11:33 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/permikomnas/application/views/Template/Header.php
+INFO - 2019-10-19 22:11:33 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/permikomnas/application/views/Template/Menu.php
+INFO - 2019-10-19 22:11:33 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/permikomnas/application/views/Posting/create.php
+INFO - 2019-10-19 22:11:33 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/permikomnas/application/views/Template/Footer.php
+INFO - 2019-10-19 22:11:33 --> Final output sent to browser
+DEBUG - 2019-10-19 22:11:33 --> Total execution time: 0.0311
+INFO - 2019-10-19 17:11:38 --> Config Class Initialized
+INFO - 2019-10-19 17:11:38 --> Hooks Class Initialized
+DEBUG - 2019-10-19 17:11:38 --> UTF-8 Support Enabled
+INFO - 2019-10-19 17:11:38 --> Utf8 Class Initialized
+INFO - 2019-10-19 17:11:38 --> URI Class Initialized
+INFO - 2019-10-19 17:11:38 --> Router Class Initialized
+INFO - 2019-10-19 17:11:38 --> Output Class Initialized
+INFO - 2019-10-19 17:11:38 --> Security Class Initialized
+DEBUG - 2019-10-19 17:11:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-19 17:11:38 --> Input Class Initialized
+INFO - 2019-10-19 17:11:38 --> Language Class Initialized
+INFO - 2019-10-19 17:11:38 --> Loader Class Initialized
+INFO - 2019-10-19 17:11:38 --> Helper loaded: url_helper
+INFO - 2019-10-19 17:11:38 --> Helper loaded: form_helper
+INFO - 2019-10-19 17:11:38 --> Helper loaded: language_helper
+INFO - 2019-10-19 17:11:38 --> Database Driver Class Initialized
+DEBUG - 2019-10-19 17:11:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-10-19 17:11:38 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-19 17:11:38 --> Controller Class Initialized
+INFO - 2019-10-19 22:11:38 --> Model "Category_model" initialized
+INFO - 2019-10-19 17:14:01 --> Config Class Initialized
+INFO - 2019-10-19 17:14:01 --> Hooks Class Initialized
+DEBUG - 2019-10-19 17:14:01 --> UTF-8 Support Enabled
+INFO - 2019-10-19 17:14:01 --> Utf8 Class Initialized
+INFO - 2019-10-19 17:14:01 --> URI Class Initialized
+INFO - 2019-10-19 17:14:01 --> Router Class Initialized
+INFO - 2019-10-19 17:14:01 --> Output Class Initialized
+INFO - 2019-10-19 17:14:01 --> Security Class Initialized
+DEBUG - 2019-10-19 17:14:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-19 17:14:01 --> Input Class Initialized
+INFO - 2019-10-19 17:14:01 --> Language Class Initialized
+INFO - 2019-10-19 17:14:01 --> Loader Class Initialized
+INFO - 2019-10-19 17:14:01 --> Helper loaded: url_helper
+INFO - 2019-10-19 17:14:01 --> Helper loaded: form_helper
+INFO - 2019-10-19 17:14:01 --> Helper loaded: language_helper
+INFO - 2019-10-19 17:14:01 --> Database Driver Class Initialized
+DEBUG - 2019-10-19 17:14:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-10-19 17:14:01 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-19 17:14:01 --> Controller Class Initialized
+INFO - 2019-10-19 22:14:01 --> Model "Category_model" initialized
+INFO - 2019-10-19 22:14:01 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/permikomnas/application/views/Template/Header.php
+INFO - 2019-10-19 22:14:01 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/permikomnas/application/views/Template/Menu.php
+INFO - 2019-10-19 22:14:01 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/permikomnas/application/views/Posting/create.php
+INFO - 2019-10-19 22:14:01 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/permikomnas/application/views/Template/Footer.php
+INFO - 2019-10-19 22:14:01 --> Final output sent to browser
+DEBUG - 2019-10-19 22:14:01 --> Total execution time: 0.0357
+INFO - 2019-10-19 17:14:03 --> Config Class Initialized
+INFO - 2019-10-19 17:14:03 --> Hooks Class Initialized
+DEBUG - 2019-10-19 17:14:03 --> UTF-8 Support Enabled
+INFO - 2019-10-19 17:14:03 --> Utf8 Class Initialized
+INFO - 2019-10-19 17:14:03 --> URI Class Initialized
+INFO - 2019-10-19 17:14:03 --> Router Class Initialized
+INFO - 2019-10-19 17:14:03 --> Output Class Initialized
+INFO - 2019-10-19 17:14:03 --> Security Class Initialized
+DEBUG - 2019-10-19 17:14:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-19 17:14:03 --> Input Class Initialized
+INFO - 2019-10-19 17:14:03 --> Language Class Initialized
+INFO - 2019-10-19 17:14:03 --> Loader Class Initialized
+INFO - 2019-10-19 17:14:03 --> Helper loaded: url_helper
+INFO - 2019-10-19 17:14:03 --> Helper loaded: form_helper
+INFO - 2019-10-19 17:14:03 --> Helper loaded: language_helper
+INFO - 2019-10-19 17:14:03 --> Database Driver Class Initialized
+DEBUG - 2019-10-19 17:14:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-10-19 17:14:03 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-19 17:14:03 --> Controller Class Initialized
+INFO - 2019-10-19 22:14:03 --> Model "Category_model" initialized

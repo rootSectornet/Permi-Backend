@@ -55,3 +55,7 @@
 .inputfile + label * {
   pointer-events: none;
 }
+
+.custom-trash:hover{
+  color: red;
+}

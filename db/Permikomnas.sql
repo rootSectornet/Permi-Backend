@@ -156,7 +156,7 @@ CREATE TABLE `DB_User` (
 --
 
 INSERT INTO `DB_User` (`ID_User`, `Username`, `Password`, `Email`, `Telp`, `Alamat`, `Picture`, `Active`, `ID_Kampus`) VALUES
-(1, 'Tedi Susanto', '$2y$10$OSECT.MydYjNvELwXKnSD.aEO7ap9NpM0Yg4hUuf/2hH6Lb/Y9KFG', 'tedijammz@gmail.com', '089603786637', 'depok', 'pria.png', 1, 1),
+(1, 'Wow', '$2y$10$OSECT.MydYjNvELwXKnSD.aEO7ap9NpM0Yg4hUuf/2hH6Lb/Y9KFG', 'wow@gmail.com', '089603786637', 'depok', 'pria.png', 1, 1),
 (2, 'asa', 'root', 'asas', '121', 'as', 'Screen_Shot_2019-09-24_at_3_23_50_PM.png', 1, 0),
 (3, 'asa', 'root', 'asas@fa.s', '22', 'asas', 'Screen_Shot_2019-09-24_at_3_23_50_PM.png', 1, 1);
 

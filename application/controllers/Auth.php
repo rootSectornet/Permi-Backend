@@ -8,7 +8,6 @@ class Auth extends CI_Controller {
         $this->load->library('Layout','layout');
         date_default_timezone_set("Asia/Jakarta");
         $this->load->model("User_model","MUser");
-        $this->load->helper('Language_helper');
 
     }
     public function index(){
